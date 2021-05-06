@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my repository 👋
+
+Hi my name is Fernando Dias Motta, I’m from Brazil 🇧🇷
+
 
 <!--
 **fernando2dias/fernando2dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
