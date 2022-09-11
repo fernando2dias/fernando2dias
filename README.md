@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working at [Flextronics Institute of Technology](https://fit-tecnologia.org.br/)
-- :heart: The moment I'm focusing more in C# and Angular. But I like others technolies also.
+- :heart: The moment I'm focusing more in C# and Angular. But I like others technologies also.
 - 💬 Ask me about **UX Design, Front-End and games!**
 
 
